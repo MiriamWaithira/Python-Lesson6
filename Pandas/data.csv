@@ -1,0 +1,16 @@
+Resource ID,Name,Category,Quantity,Condition
+R001,Mathematics Textbook,Books,50,Good
+R002,Science Lab Manual,Books,30,Excellent
+R003,Laptop,Electronics,15,Good
+R004,Projector,Electronics,3,Excellent
+R005,Whiteboard,Furniture,10,Good
+R006,Student Desk,Furniture,100,Fair
+R007,Teacher's Chair,Furniture,20,Good
+R008,Printer,Electronics,2,Excellent
+R009,Graph Paper Packs,Miscellaneous,200,Good
+R010,Pens Pack,Miscellaneous,500,Excellent
+R011,Chemistry Glassware,Lab Equipment,50,Good
+R012,Microscope,Lab Equipment,10,Excellent
+R013,Art Supplies,Miscellaneous,40,Fair
+R014,Bookshelf,Furniture,8,Good
+R015,Router,Electronics,5,Good
